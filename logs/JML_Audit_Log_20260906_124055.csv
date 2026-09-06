@@ -1,0 +1,3 @@
+"Timestamp","Action","UserUPN","Department","Status","Details"
+"2026-09-06 12:40:58","MOVER_TRANSFER","aarav.sharma@webstrive.onmicrosoft.com","Finance","SUCCESS","Transferred to Finance; Cleaned stale AUs; Tokens revoked."
+"2026-09-06 12:41:00","MOVER_TRANSFER","priya.nair@webstrive.onmicrosoft.com","Engineering","SUCCESS","Transferred to Engineering; Cleaned stale AUs; Tokens revoked."
