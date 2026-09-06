@@ -2,7 +2,7 @@
 
 
 
-\## Project Overview
+\## 📌 Project Overview
 
 Manual identity management causes permission bloat, orphaned accounts, license waste, and compliance violations. 
 
@@ -16,7 +16,7 @@ This project implements an automated, event-driven \*\*Joiner-Mover-Leaver (JML)
 
 
 
-\## Architecture Workflow
+\## 🏗️ Architecture Workflow
 
 ```text
 
@@ -36,9 +36,7 @@ This project implements an automated, event-driven \*\*Joiner-Mover-Leaver (JML)
 
 └── Security Hardening: Token Revocation \& Continuous Access Evaluation (CAE)
 
-
-
-⚙️ Core Technical Capabilities Implemented
+Core Technical Capabilities Implemented
 
 Scoped Administrative Delegation (Administrative Units):
 
@@ -64,7 +62,7 @@ Group-Based License Reclamation:
 
 
 
-Linked Microsoft 365 licenses directly to dynamic groups. Disabling leaver accounts automatically reclaims expensive enterprise licenses.
+Linked Microsoft 365 licenses directly to dynamic groups. Disabling leaver accounts automatically reclaims enterprise licenses.
 
 
 
@@ -84,7 +82,7 @@ Designed the PowerShell automation engine to check existing states before execut
 
 
 
-\# Verification \& Evidence
+📸 Verification \& Evidence
 
 1\. Pre-requisite Configuration
 
@@ -136,7 +134,7 @@ Administrative Unit Status Post-Offboarding
 
 5\. Compliance \& Regulatory Audit Trail
 
-\## Repository Layout
+🚀 Repository Layout
 
 C:\\EntraID-JML-Lab\\
 
@@ -157,4 +155,6 @@ C:\\EntraID-JML-Lab\\
 │   └── IdentityLifecycle.ps1         # Production PowerShell lifecycle engine
 
 └── README.md
+
+
 
