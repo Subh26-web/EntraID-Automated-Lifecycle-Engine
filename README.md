@@ -1,4 +1,4 @@
-# Enterprise Identity Lifecycle Automation Engine (JML) | Microsoft Entra ID
+# Identity Lifecycle Automation Engine (JML) — A Self-Directed Cloud Security Lab | Microsoft Entra ID
 
 ## 📌 Project Overview
 Manual identity management causes permission bloat, orphaned accounts, license waste, and compliance violations. 
